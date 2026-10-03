@@ -1,0 +1,14 @@
+{
+  "110001": { "city": "New Delhi", "state": "Delhi", "postOffice": "Connaught Place" },
+  "400001": { "city": "Mumbai", "state": "Maharashtra", "postOffice": "Mumbai GPO" },
+  "411001": { "city": "Pune", "state": "Maharashtra", "postOffice": "Pune City" },
+  "560001": { "city": "Bengaluru", "state": "Karnataka", "postOffice": "Bangalore GPO" },
+  "600001": { "city": "Chennai", "state": "Tamil Nadu", "postOffice": "Chennai GPO" },
+  "700001": { "city": "Kolkata", "state": "West Bengal", "postOffice": "Kolkata GPO" },
+  "500001": { "city": "Hyderabad", "state": "Telangana", "postOffice": "Hyderabad GPO" },
+  "380001": { "city": "Ahmedabad", "state": "Gujarat", "postOffice": "Ahmedabad GPO" },
+  "302001": { "city": "Jaipur", "state": "Rajasthan", "postOffice": "Jaipur GPO" },
+  "226001": { "city": "Lucknow", "state": "Uttar Pradesh", "postOffice": "Lucknow GPO" },
+  "160017": { "city": "Chandigarh", "state": "Chandigarh", "postOffice": "Sector 17" },
+  "682001": { "city": "Kochi", "state": "Kerala", "postOffice": "Ernakulam" }
+}
